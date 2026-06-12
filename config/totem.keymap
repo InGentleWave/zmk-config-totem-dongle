@@ -207,7 +207,7 @@
         };
 
         num {
-            display-name = "NUM";
+            display-name = "NUM 1";
             bindings = <
        &ht_sft LS(GRAVE) GRAVE                &ht_sft LS(N7) N7  &ht_sft LS(N8) N8      &ht_sft LS(N9) N9  &ht_sft LS(N0) N0                          &none   &none  &none  &none  &none
        &ht_sft LS(LEFT_BRACKET) LEFT_BRACKET  &ht_sft LS(N4) N4  &ht_sft LS(N5) N5      &ht_sft LS(N6) N6  &ht_sft LS(RIGHT_BRACKET) RIGHT_BRACKET    &none   &none  &none  &none  &none
@@ -257,7 +257,7 @@
         };
 
         num+sym {
-            display-name = "NUM+SYM";
+            display-name = "NUM 2";
             bindings = <
        &kp PIPE    &kp TILDE   &kp UNDER        &kp DQT    &kp PLUS    &none       &kp LPAR    &kp RPAR         &kp LBRC  &kp RBRC
        &kp N1      &kp N2      &hrm_l LSHFT N3  &kp N4     &kp N5      &kp N6      &kp N7      &hrm_r LSHFT N8  &kp N9    &kp N0
