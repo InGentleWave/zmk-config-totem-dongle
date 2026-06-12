@@ -196,8 +196,8 @@
             label = "COLEMAK-DH";
         };
 
-        nav {
-            display-name = "NAV";
+        navi {
+            display-name = "NAVI";
             bindings = <
        &kp ESC         &kp HOME        &kp LS(END)   &kp PAGE_UP      &none             &to_colemak_tog  &kp SLCK         &none      &none     &none
        &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &msc SCRL_UP      &tog 9           &kp LCTRL        &kp LSHFT  &kp LALT  &kp LGUI
@@ -216,8 +216,8 @@
             >;
         };
 
-        fn {
-            display-name = "FN";
+        function {
+            display-name = "FUNC";
             bindings = <
        &none   &none   &none   &none   &none     &none    &none    &none   &none   &none
        &kp F1  &kp F2  &kp F3  &kp F4  &kp F5    &kp F6   &kp F7   &kp F8  &kp F9  &kp F10
